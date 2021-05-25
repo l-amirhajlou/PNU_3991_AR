@@ -12,11 +12,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Leila Amirhajlou Resume
 ## Header 2
+Educational and Academic degrees 
+- Maser of software engineering 
+- Master of Medical Education
+- Master of Health Information
+- 
 ### Header 3
 
 - Bulleted
-- List
+- 
 
 1. Numbered
 2. List
